@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Jason Taylor  jason@git.training @awesomejt
+    Yaniv Partush  jason@git.training @awesomejt
 
 # THANKS
 
