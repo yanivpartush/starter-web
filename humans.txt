@@ -4,7 +4,7 @@
 # TEAM
 
     Yaniv Partush  jason@git.training @awesomejt
-    Fetch Vs Pull
+    Fetch Vs Pull 2
 
 # THANKS
 
